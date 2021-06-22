@@ -1,0 +1,56 @@
+.carousel-item{
+    height: 650px;
+}
+.footer{
+    background-color:rgb(105, 104, 104);
+}
+.main{
+    text-shadow: 3px 3px grey;
+}
+.one{
+    height: 400px;
+    margin-top: 50px;
+}
+.team{
+text-shadow: 3px 3px grey;
+}
+.last{
+text-shadow: 2px 2px black;
+}
+.footer{
+width: 100%;
+ }
+ .one{
+     margin-top: 150px
+ }
+ .second{
+     height: 150px;
+ }
+ .fourth{
+    height: 180px;
+    margin-bottom: 150px;
+ }
+ .heading{
+     padding-left: 40px;
+ }
+.list{
+    list-style-type: none;
+}
+.footers{
+    margin-top: 800px;
+}
+.rows{
+    margin-top: 50px;
+}
+.image{
+    margin-bottom: 50px;
+}
+@media only screen and (max-width:540x){
+    .footers{
+        display: none;
+    }
+    .about{
+        margin: 200px;
+    }
+    
+}
